@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolbeat
-- 👀 I’m interested in Machine Learning/Data Science
+- 👀 I’m interested in Data Science / data visualization / data analysis and Machine Learning
 - 🌱 I’m currently learning Django, ReactJS
-- 💞️ I’m looking to collaborate on Python based DataScience projects
+- 💞️ I’m looking to collaborate on Python/JS based DataScience projects
 - 📫 Reachable via lolbeat@aol.com
 
 <!---
